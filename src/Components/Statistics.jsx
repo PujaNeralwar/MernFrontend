@@ -194,7 +194,7 @@ const Statistics = () => {
               </h2>
               <Line data={salesData} options={options} />
             </div>
-            <div className="bg-white p-8 rounded shadow-lg text-center col-span-full">
+            <div className="bg-white p-8 rounded shadow-lg text-center">
               <h2 className="text-2xl font-bold mb-4 text-gray-800">
                 Books by Publisher
               </h2>
